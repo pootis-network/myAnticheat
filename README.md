@@ -1,22 +1,5 @@
 ```                                                                                                       
-   
-Main Controls - *FIGlet and AOL Macro Fonts Supported*
-Font:
-Character Width:
-Character Height:
-Type Something 
-	
-	
-Other Stuff From patorjk.com That You Might Like:
 
-    Typing Speed Test
-    Keyboard Layout Analzyer
-    Text Color Fader
-    Snake Game
-    My Photography Site
-    Main Page
-
-patorjk.com
 
  __    __            __    __                                                               
 |  \  |  \          |  \  |  \                                                              
